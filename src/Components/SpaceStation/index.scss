@@ -1,0 +1,27 @@
+@use '../../Styles/_theme.scss' as *;
+.satellite {
+  $root: &;
+
+  &-img {
+    display: block;
+    width: 70px;
+    height: auto;
+  }
+  &-map {
+    width: calc(100vw - 60px);
+    height: 500px;
+    margin: 0 auto 50px;
+    border: 1px solid $violet;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  &-icon-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    #{$root}-img {
+      margin-right: 15px;
+    }
+  }
+}
