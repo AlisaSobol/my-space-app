@@ -7,7 +7,6 @@ import { isEmpty } from 'lodash';
 const APIS = {
     ASTRONAUTS_API: 'http://api.open-notify.org/astros.json',
     COORDINATES_API: 'http://api.open-notify.org/iss-now.json',
-    AVATARS_API: 'https://api.dicebear.com/6.x/croodles-neutral/svg'
 };
 
 class App extends Component {
@@ -17,8 +16,7 @@ class App extends Component {
             Astronauts: [],
             Coordinates: {},
             AstronautsError: false,
-            CoordinatesError: false,
-            Avatars: []
+            CoordinatesError: false
         }
     }
 
