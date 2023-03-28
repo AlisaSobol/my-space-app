@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-space-app/static/css/main.e469fafd.css",
+    "main.js": "/my-space-app/static/js/main.bf1a2d29.js",
+    "static/js/787.c2d73e08.chunk.js": "/my-space-app/static/js/787.c2d73e08.chunk.js",
+    "static/media/satellite.png": "/my-space-app/static/media/satellite.0bad37c8a3d3e2b4bb5c.png",
+    "index.html": "/my-space-app/index.html",
+    "main.e469fafd.css.map": "/my-space-app/static/css/main.e469fafd.css.map",
+    "main.bf1a2d29.js.map": "/my-space-app/static/js/main.bf1a2d29.js.map",
+    "787.c2d73e08.chunk.js.map": "/my-space-app/static/js/787.c2d73e08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e469fafd.css",
+    "static/js/main.bf1a2d29.js"
+  ]
+}
